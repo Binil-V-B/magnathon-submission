@@ -36,5 +36,5 @@ Instructions for running
 after hosting we can run it without any other requirements
 
 ## Other Links
-Provide any other links ( for eg. Wireframe , UI )
+Provide any other links ( for eg. Wireframe , UI ).
 
